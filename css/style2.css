@@ -1,0 +1,80 @@
+body, html{
+padding: 0;
+margin: 0;
+background-color: #000;
+}
+#d05{
+	color:blue; 
+	font-family: cursive;
+	font-size: 60px;
+	margin-top: 250px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+
+}
+
+#d02{
+	margin-top: -409px;
+	transition-delay: 1000;
+}
+
+#d04{
+	margin-top: -698px;
+}
+
+#i3{
+	margin-top: -25px;
+	margin-left: 100px;
+	height: 280px;
+	width: 1200px;
+	margin-bottom: 0px;
+}
+#i4{
+	height: 430px;
+	margin-top: 0px;
+
+}
+.D1{
+	background:#009;
+	margin-top: 0px;
+}
+	.D2{
+		size: 10px;
+		margin-left:600px; 
+		margin-bottom: -30px;
+	}
+#i5, #i6, #i7,#i8,#i9,#i10,#i11,#i12,#i13,#i14,#i15,#i16,#i17,#i18,#i19{
+width: 190px;
+height: 250px;
+}
+#i20,#i21,#i22,#i23,#i24,#i25,#i26,#i27{
+height: 200px;
+}
+#d07{
+	margin-left: 1150px;
+	padding-top: 200px;
+}
+#d08{
+	margin-left: 865px;
+	margin-top: -765px;
+}
+#d09{
+	margin-left: 580px;
+	margin-top: -765px;
+}
+#d10{
+	margin-left: 295px;
+	margin-top: -765px;
+}
+#d11{
+	margin-left: 10px;
+	margin-top: -765px;
+}
+#d12{
+	margin-left: 10px;
+	margin-top: -975px;
+}
+#d13{
+	margin-left: 10px;
+	margin-top: 765px;
+}

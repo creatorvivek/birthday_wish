@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+<script type="text/javascript">
+	function Sf() {
+		 var x=document.getElementById("first").value;
+		if(x=="Shubham"||x=="shubham"||x=="SHUBHAM"||x=="shubu"||x=="SHUBU"||x=="Shubu"||x=="Kaki"||x=="kaki"||x=="KAKI") 
+
+		{
+		//alert("Pjjjj");
+		window.location.href="Login1.html";
+			
+
+		}
+		else if (x==null||x=="") {
+			alert("Please Enter Your Name");
+		}
+		else {
+			alert("Please Enter birthday boy Name!");
+		}
+	}
+</script>
+</head>
+<body>
+
+<div class="d1">
+	<video id="v-1" preload="auto" autoplay="true" loop="loop" muted="muted" >
+		<source src="video/Balloons1.mkv" type="video/mp4">
+		<source src="video/Balloons1.webm" type="video/webm">
+	</video>
+</div>	
+
+
+
+<center>
+	<div id="a1">
+		<marquee behavior="alternate" scrollamount="15"><h1>Happy BirthDay Shubham!!!!!!</h1></marquee>
+		<img id="img1"src="images/1.jpg">
+		<form >
+			Name:	<input type="text" id="first" required="required" autocomplete="off" placeholder="Birthday Boy Name">
+		</form>	<input type="button" onclick="Sf();" value="Click To Enter" ></button>
+		
+			
+	</div>
+</center>
+</body>
+</html>
